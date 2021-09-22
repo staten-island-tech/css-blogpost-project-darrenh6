@@ -1,10 +1,29 @@
 body{
     font-family: 'Noto Sans JP', sans-serif;
     font-family: 'Roboto', sans-serif;
+    background-color: #FF5C58;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 .title{
     text-align: center;
+    color: #FCD2D1;
 }
 .main-header{
-    color:red;
+    color:#FFEDD3;
+    padding-top: 20px;
+}
+.block{
+    width:640px;
+    text-align: center;
+    background-color: #FF7878;
+    margin: 0 auto;
+}
+.separator{
+    background-color: #FFEDD3;
+}
+.sample-text{
+    margin:20px;
+    padding-bottom: 20px;
 }
