@@ -1,4 +1,2 @@
-# css-blogpost-project-darrenh6
-css-blogpost-project-darrenh6 created by GitHub Classroom
-
+# css-blogpost-project
 very interesting pokemon site
